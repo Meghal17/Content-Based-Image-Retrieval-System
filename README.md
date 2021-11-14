@@ -1,7 +1,12 @@
 # Content Based Image Retrieval System (CBIR)
 
 This is an attempt to build a CBIR system for images. You can use your 
-own dataset of images for which you wish to build a CBIR system. 
+own dataset of images for which you wish to build a CBIR system.
+
+## Requirements
+- Keras
+- Matplotlib
+- sklearn
 
 ## Working
 
