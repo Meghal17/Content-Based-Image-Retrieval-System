@@ -1,0 +1,15 @@
+[CBIR config]
+
+data_path = E:/CBIR/dataset
+
+model_path = E:/CBIR/models
+
+features_path = E:/CBIR/Features.pickle
+
+query_path = E:/CBIR/query
+
+input_dim = 256,256,3
+
+batch_size = 16
+
+num_clusters = 5
